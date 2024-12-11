@@ -53,6 +53,14 @@ Conclusión
 
 Las tablas de amortización son instrumentos clave en la gestión financiera, proporcionando una visión clara y estructurada de la deuda. Si bien presentan algunas limitaciones, su utilidad para planificar pagos, evitar impagos y comparar créditos es incuestionable. Con una correcta interpretación y uso, estas tablas contribuyen significativamente al éxito financiero tanto de individuos como de empresas.
 
+Integrantes:
+Alexa García
+Angel Torres
+Gonzalo Álvarez
+Jesús Adriel
+Jorge Ferreira
+Isabella Campos
+
 Referencias
 
 https://www.bancosantander.es/glosario/amortizacion
